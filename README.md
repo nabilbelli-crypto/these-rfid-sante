@@ -1,7 +1,7 @@
 # Antennes RFID pour la santé : dispositifs portables, implantables et ingérables
 
 Dépôt de travail de la thèse de doctorat de **Nabil Belli** (laboratoire IDS, Université Abdelmaâlek Essaâdi, Tétouan).
-Encadrant : Pr. Otman El Morabet.
+ORCID : [0009-0005-2200-0583](https://orcid.org/0009-0005-2200-0583) · Encadrant : Pr. Otman El Morabet.
 
 ## Objet
 
