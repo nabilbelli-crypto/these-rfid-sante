@@ -2,6 +2,7 @@
 
 Dépôt de travail de la thèse de doctorat de **Nabil Belli** (laboratoire IDS, Université Abdelmaâlek Essaâdi, Tétouan).
 ORCID : [0009-0005-2200-0583](https://orcid.org/0009-0005-2200-0583) · Encadrant : Pr. Otman El Morabet.
+Bibliothèque Zotero publique : https://www.zotero.org/groups/6759663/these_rfid_sante
 
 ## Objet
 
@@ -30,7 +31,7 @@ these-rfid-sante/
 ## Utilisation
 
 ```bash
-git clone https://github.com/<votre-compte>/these-rfid-sante.git
+git clone https://github.com/nabilbelli-crypto/these-rfid-sante.git
 cd these-rfid-sante
 python -m pip install numpy matplotlib
 python scripts/coef_transmission.py --za 3.8+139j --zc 23.3-145j
