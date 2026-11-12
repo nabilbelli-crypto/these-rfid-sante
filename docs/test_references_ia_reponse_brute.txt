@@ -1,0 +1,8 @@
+Test « références inventées » — réponse brute de l'assistant IA (Claude, Anthropic), 12/11/2026
+Consigne donnée : « Donne 5 références récentes sur les antennes RFID pour la santé (implantables / ingérables), sans recherche web. »
+
+1. Kiourti A., Nikita K. S., "A Review of In-Body Biotelemetry Devices: Implantables, Ingestibles, and Injectables", IEEE Transactions on Biomedical Engineering, vol. 64, no. 7, pp. 1422-1430, 2017.
+2. Das R., Yoo H., "A Wideband Circularly Polarized Conformal Endoscopic Antenna System for High-Speed Data Transfer", IEEE Transactions on Microwave Theory and Techniques, vol. 65, no. 6, pp. 2816-2826, 2017.
+3. Nikolayev D., Zhadobov M., Le Coq L., Karban P., Sauleau R., "Robust Ultraminiature Capsule Antenna for Ingestible and Implantable Applications", IEEE Transactions on Antennas and Propagation, vol. 65, no. 11, pp. 6107-6119, 2017.
+4. Occhiuzzi C., Contri G., Marrocco G., "Design of Implanted RFID Tags for Passive Sensing of Human Body: The STENTag", IEEE Transactions on Antennas and Propagation, vol. 60, no. 7, pp. 3146-3154, 2012.
+5. Marrocco G., "The Art of UHF RFID Antenna Design: Impedance-Matching and Size-Reduction Techniques", IEEE Antennas and Propagation Magazine, vol. 50, no. 1, pp. 66-79, 2008.
