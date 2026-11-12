@@ -1,0 +1,17 @@
+# Résultats lourds de simulation (archivés sur Zenodo, pas dans Git)
+*_Results/
+*.aedtresults/
+*.lok
+*.asol
+*.cst.bak
+ModelCache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Système
+.DS_Store
+Thumbs.db
+~$*
