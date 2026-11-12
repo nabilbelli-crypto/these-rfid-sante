@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce dépôt, merci de le citer comme suit."
+title: "Antennes RFID pour la santé : dispositifs portables, implantables et ingérables"
+authors:
+  - family-names: Belli
+    given-names: Nabil
+    affiliation: "Laboratoire IDS, Université Abdelmaâlek Essaâdi"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   <- à compléter
+license: MIT
+date-released: 2026-11-15
